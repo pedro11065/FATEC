@@ -1,2 +1,2 @@
 # FATEC
-university
+facul
